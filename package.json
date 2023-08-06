@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ellie-Aghajani/practicejavascript/issues"
   },
-  "homepage": "https://github.com/Ellie-Aghajani/practicejavascript#readme"
+  "homepage": "https://github.com/Ellie-Aghajani/practicejavascript#readme",
+  "dependencies": {
+    "node": "^20.5.0"
+  }
 }
